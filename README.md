@@ -144,6 +144,40 @@ AI & AI-Powered Applications
   <!-- Add LinkedIn, Portfolio and Email links here -->
 </p>
 
+
+
+---
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-yousuf-26&theme=github-compact&hide_border=true" />
+</p>
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-yousuf-26&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-yousuf-26&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+### 🔥 Repository Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abdullah-yousuf-26&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 💬 RANDOM DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
 ---
 
 ### 💡 Learn. Build. Improve. Repeat.
