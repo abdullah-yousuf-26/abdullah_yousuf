@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Abdullah Ibne Yousuf - Full-Stack Developer">
+</p>
+
 # 👋 Hi, I'm Abdullah Ibne Yousuf
 
 ### Full-Stack Developer in Progress | MERN Stack | AI Enthusiast
